@@ -4,7 +4,7 @@
 #
 Name     : xf86bigfontproto
 Version  : 1.2.0
-Release  : 7
+Release  : 8
 URL      : http://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-1.2.0.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-1.2.0.tar.gz
 Summary  : XF86BigFont extension headers
